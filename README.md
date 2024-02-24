@@ -8,4 +8,4 @@ This repository contains a simple template homepage created using HTML, CSS, and
 - Easy to Customize: With clean and well-organized code, it's straightforward to customize and extend according to your needs.
 
   ##
-   Open demo from [here](https://homepage-template3.firebaseapp.com/)
+   Open demo from [here](https://homepage-template3.web.app/)
